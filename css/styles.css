@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+}
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
+header {
+  background-color: limegreen;
+  overflow: hidden;
+}
+p {
+  font-size: 20px;
+}
+nav {
+  float: right;
+}
+h1 {
+  float: left;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+}
+nav ul {
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  padding-right:20px;
+  font-size: 20px;
+}
+.meow {
+  float: left;
+  width: 60%;
+}
+.blue {
+  background-color: royalblue;
+  overflow: hidden;
+}
+.cats {
+  clear: both;
+  background-color: orange;
+  padding: 40px 10px;
+  margin-top: 0;
+}
+.products {
+  background-color: #eee;
+  overflow: hidden;
+  padding: 30px 20px;
+}
+.image {
+  float: left;
+  width: 33.33%;
+  padding: 2%;
+}
+.last {
+  background-color: royalblue;
+  padding: 40px 20px;
+}
+.last h2 {
+  display: inline-block;
+  color: red;
+  text-transform: uppercase;
+  padding-left: 75px;
+  padding-right: 130px;
+}
+.last p {
+  color: white;
+}
+footer {
+  background-color: limegreen;
+  overflow: hidden;
+}
+footer p {
+  float: right;
+  padding-right: 20px;
+}
